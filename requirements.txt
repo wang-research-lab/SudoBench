@@ -1,0 +1,7 @@
+anthropic>=0.40
+openai>=1.50
+google-genai>=0.3
+matplotlib>=3.8
+scipy>=1.11
+numpy>=1.26
+tqdm>=4.66

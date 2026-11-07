@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Local runs / scratch
+.logs/
+*.bak
+.env
+.envrc
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Local LaTeX scratch
+latex/
